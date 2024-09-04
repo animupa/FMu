@@ -1,5 +1,5 @@
 # FMu
-Dataset of Funding Applications for the Chilean Ministry of Culture's Music Grant (2012-2023).
+Dataset of Funding Applications for the Chilean Ministry of Culture&#39;s Music Grant (Fondos de la Música) (2012-2023).
 
 It consists of 28040 entries (one per fund application) and 24 variables:
 - 'ID': unique identifier of the application (produced by Animupa)
